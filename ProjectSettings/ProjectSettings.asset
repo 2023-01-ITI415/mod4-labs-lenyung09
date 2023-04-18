@@ -585,6 +585,15 @@ PlayerSettings:
     7: CROSS_PLATFORM_INPUT;MOBILE_INPUT
     13: STARTER_ASSETS_PACKAGES_CHECKED
     14: MOBILE_INPUT
+    19: 
+    21: 
+    25: 
+    27: 
+    28: 
+    29: 
+    30: 
+    32: 
+    33: 
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
